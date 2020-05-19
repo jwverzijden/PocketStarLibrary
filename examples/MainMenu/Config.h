@@ -1,0 +1,6 @@
+#define MODELTYPE "PSV3S1U"
+#define DATE "2018"
+#define MENUVERSION "1.4"
+
+#define FLASH_CYCLE 1500
+#define INPUTLOCKTIME 0.25f

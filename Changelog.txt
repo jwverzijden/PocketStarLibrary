@@ -1,0 +1,9 @@
+Version 1.0.2
+ - added example games: 'Treasure Miner' and 'Treasure Miner XS'
+ - fixed a bug where the main menu would display incorrect version
+
+Version 1.0.1
+ - fixed a bug where 16-bit mode was entered after leaving pause menu
+
+Version 1.0
+initial release

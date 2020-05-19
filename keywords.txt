@@ -1,0 +1,119 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PocketStar	KEYWORD1
+pocketstar	KEYWORD1
+PSImage	KEYWORD1
+PSSprite	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+initialize	KEYWORD2
+update	KEYWORD2
+pause	KEYWORD2
+resume	KEYWORD2
+startTransfer	KEYWORD2
+endTransfer	KEYWORD2
+on	KEYWORD2
+off	KEYWORD2
+setMirror	KEYWORD2
+setBitDepth	KEYWORD2
+setColorMode	KEYWORD2
+setBrightness	KEYWORD2
+clearWindow	KEYWORD2
+clearScreen	KEYWORD2
+drawLine	KEYWORD2
+drawRect	KEYWORD2
+drawPixel	KEYWORD2
+setX	KEYWORD2
+setY	KEYWORD2
+goTo	KEYWORD2
+writeBuffer	KEYWORD2
+drawImage	KEYWORD2
+drawSprites	KEYWORD2
+setFont	KEYWORD2
+setFontColor	KEYWORD2
+setCursor	KEYWORD2
+getPrintWidth	KEYWORD2
+getButtons	KEYWORD2
+vibrate	KEYWORD2
+batteryLevel	KEYWORD2
+isCharging	KEYWORD2
+isSDConnected	KEYWORD2
+setBacklightColor	KEYWORD2
+disableBacklight	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+BitDepth8	LITERAL1
+BitDepth16	LITERAL1
+ColorModeBGR	LITERAL1
+ColorModeRGB	LITERAL1
+
+BLACK_16b	LITERAL1
+DARKGRAY_16b	LITERAL1
+GRAY_16b	LITERAL1
+LIGHTGRAY_16b	LITERAL1
+WHITE_16b	LITERAL1
+RED_16b	LITERAL1
+ORANGE_16b	LITERAL1
+YELLOW_16b	LITERAL1
+GREENYELLOW_16b	LITERAL1
+GREEN_16b	LITERAL1
+CYAN_16b	LITERAL1
+BLUE_16b	LITERAL1
+PURPLE_16b	LITERAL1
+MAGENTA_16b	LITERAL1
+DARKRED_16b	LITERAL1
+DARKGREEN_16b	LITERAL1
+DARKBLUE_16b	LITERAL1
+BLACK_8b	LITERAL1
+DARKGRAY_8b	LITERAL1
+GRAY_8b	LITERAL1
+LIGHTGRAY_8b	LITERAL1
+WHITE_8b	LITERAL1
+RED_8b	LITERAL1
+ORANGE_8b	LITERAL1
+YELLOW_8b	LITERAL1
+GREENYELLOW_8b	LITERAL1
+GREEN_8b	LITERAL1
+CYAN_8b	LITERAL1
+BLUE_8b	LITERAL1
+PURPLE_8b	LITERAL1
+MAGENTA_8b	LITERAL1
+DARKRED_8b	LITERAL1
+DARKGREEN_8b	LITERAL1
+DARKBLUE_8b	LITERAL1
+
+pocketStar5pt	LITERAL1
+pocketStar6pt	LITERAL1
+pocketStar7pt	LITERAL1
+pocketStar12pt	LITERAL1
+pocketStar16pt	LITERAL1
+pocketStar26pt	LITERAL1
+pocketStarSymbols	LITERAL1
+
+ButtonUp	LITERAL1
+ButtonDown	LITERAL1
+ButtonLeft	LITERAL1
+ButtonRight	LITERAL1
+ButtonA	LITERAL1
+ButtonB	LITERAL1
+
+BacklightBlack	LITERAL1
+BacklightRed	LITERAL1
+BacklightGreen	LITERAL1
+BacklightBlue	LITERAL1
+BacklightYellow	LITERAL1
+BacklightMagenta	LITERAL1
+BacklightCyan	LITERAL1
+BacklightWhite	LITERAL1
